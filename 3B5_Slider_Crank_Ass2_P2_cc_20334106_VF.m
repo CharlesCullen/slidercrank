@@ -1,4 +1,4 @@
-%3B5 Machines Ass 2 Part 2 final
+%3B5 Machines Ass 2 Part 2 acceleration & velocity analysis final
 %Charles Cullen 20334106 
 
 
